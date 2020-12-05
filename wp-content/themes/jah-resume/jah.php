@@ -99,7 +99,7 @@ get_header(); ?>
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Front-end Web Development</h3>
               <div class="subheading mb-3">Creative Working Playground</div>
-              <p>Wordpress Theme Tweaking, Development and Page Speed Optimization</p>
+              <p>Wordpress Theme Tweaking, Development, Management and Page Speed Optimization</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">November 2018 - May 2019</span>
