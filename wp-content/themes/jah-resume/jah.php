@@ -84,6 +84,18 @@ get_header(); ?>
         <div class="my-auto">
           <h2 class="mb-5">Experience</h2>
 			
+			<div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Website Management</h3>
+              <div class="subheading mb-3">Various Projects</div>
+              <p>Wordpress Development, Website Updating and Management</p>
+			  <p>Video Edits (Resizing, Intro and Outro) </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2019 - April 2020</span>
+            </div>
+          </div>
+			
 		  <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Front-end Web Development</h3>
