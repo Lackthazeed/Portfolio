@@ -92,7 +92,7 @@ get_header(); ?>
 			  <p>Video Edits (Resizing, Intro and Outro) </p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">September 2019 - April 2020</span>
+              <span class="text-primary">May 2020 - October 2020</span>
             </div>
           </div>
 			
